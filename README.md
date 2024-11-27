@@ -30,6 +30,6 @@ A real-time human intrusion detection system built using **OpenCV**, **MediaPipe
 ## Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/DevjitSikdar/human-intrusion-detection.git  
-   cd human-intrusion-detection  
+   git clone https://github.com/DevjitSikdar/human-intrusion-detection-system.git  
+   cd human-intrusion-detection-system  
 
